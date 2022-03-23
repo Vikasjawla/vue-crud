@@ -1,6 +1,6 @@
 #  Vue CRUD : 
 
->TooToo is built to provide you delivery of groceries and dairy items, medicines, drugs and pharmaceutical products, health and wellness products, fruits and vegetables (“Products”) upon receipt of your order. You can view and purchase the items through our Platform as per your requirement. Payment can be made online through our Platform or by paying cash on delivery (“COD”).
+>Building a Vue.js 2 CRUD Application to consume REST APIs, display and modify data using Vue 2, Vue Router and Axios.
 
 ### Tech Stack
 
